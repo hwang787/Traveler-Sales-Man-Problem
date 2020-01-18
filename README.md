@@ -1,4 +1,4 @@
-# CSE 6140 Algorithms Project
+# TSP 
 
 Tiantian Fu, Hanchen Wang, Xingjian Wang, Jing Shi
 
